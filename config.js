@@ -1,0 +1,17 @@
+module.exports = {
+  Client: {
+    TOKEN: "MTAzNDE3MDY0NDI2NDQwMzAxNA.GKC2_i.9iA5YUetoTXmFSmIHjid9TnJNStkEtxNrkNscM",
+    ID: "1034170644264403014"
+  },
+
+  Handler: {
+    GUILD_ID: "1023603594802499635",
+    CATEGORY_ID: "1030538208515211324"
+  },
+
+  Modmail: {
+    INTERACTION_COMMAND_PERMISSIONS: ['Administrator'],
+    MAIL_MANAGER_ROLES: [''], 
+    MENTION_MANAGER_ROLES_WHEN_NEW_MAIL_CREATED: false
+  }
+};
